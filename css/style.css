@@ -1,6 +1,14 @@
+body {
+    background-color: whitesmoke;
+}
+
+.macbook {
+    color: rgb(10, 139, 161);
+}
+
+
 /* buttons */
 .btn-color:hover {
-    background-color: black;
+    background-color: rgb(10, 139, 161);
     color: white;
-    
 }
